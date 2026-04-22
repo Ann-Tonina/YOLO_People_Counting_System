@@ -17,6 +17,8 @@ dataset/
 *.avi
 *.mov
 *.csv
+yolo_dataset/
+data.yaml
 
 # YOLO training outputs
 runs/
